@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 08/03/2021 - 12/03/2021  
+**Course Date:** 15/03/2021 
 **Name:** Halil Görkem  
 **Surname:** Herek  
 **Email:** halilherek@gmail.com  
